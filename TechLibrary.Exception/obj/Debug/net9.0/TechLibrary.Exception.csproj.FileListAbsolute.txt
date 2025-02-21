@@ -9,3 +9,4 @@ D:\Mike\Documents\Projects\Rocketseat\nlw-connect\csharp\TechLibrary\TechLibrary
 D:\Mike\Documents\Projects\Rocketseat\nlw-connect\csharp\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\refint\TechLibrary.Exception.dll
 D:\Mike\Documents\Projects\Rocketseat\nlw-connect\csharp\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\TechLibrary.Exception.pdb
 D:\Mike\Documents\Projects\Rocketseat\nlw-connect\csharp\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\ref\TechLibrary.Exception.dll
+D:\Mike\Documents\Projects\Rocketseat\nlw-connect\csharp\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\TechLibrary.Exception.sourcelink.json

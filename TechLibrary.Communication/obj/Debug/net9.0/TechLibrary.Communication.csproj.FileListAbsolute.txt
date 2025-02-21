@@ -9,3 +9,4 @@ D:\Mike\Documents\Projects\Rocketseat\nlw-connect\csharp\TechLibrary\TechLibrary
 D:\Mike\Documents\Projects\Rocketseat\nlw-connect\csharp\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\refint\TechLibrary.Communication.dll
 D:\Mike\Documents\Projects\Rocketseat\nlw-connect\csharp\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.pdb
 D:\Mike\Documents\Projects\Rocketseat\nlw-connect\csharp\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\ref\TechLibrary.Communication.dll
+D:\Mike\Documents\Projects\Rocketseat\nlw-connect\csharp\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.sourcelink.json
