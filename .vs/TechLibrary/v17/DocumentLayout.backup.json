@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|d:\\mike\\documents\\projects\\rocketseat\\nlw-connect\\csharp\\techlibrary\\techlibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|d:\\mike\\documents\\projects\\rocketseat\\nlw-connect\\csharp\\techlibrary\\techlibrary.api\\usecases\\books\\filter\\filterbooksusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\books\\filter\\filterbooksusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|d:\\mike\\documents\\projects\\rocketseat\\nlw-connect\\csharp\\techlibrary\\techlibrary.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|d:\\mike\\documents\\projects\\rocketseat\\nlw-connect\\csharp\\techlibrary\\techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|d:\\mike\\documents\\projects\\rocketseat\\nlw-connect\\csharp\\techlibrary\\techlibrary.api\\usecases\\login\\dologin\\dologinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\login\\dologin\\dologinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|d:\\mike\\documents\\projects\\rocketseat\\nlw-connect\\csharp\\techlibrary\\techlibrary.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|d:\\mike\\documents\\projects\\rocketseat\\nlw-connect\\csharp\\techlibrary\\techlibrary.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 168,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\TechLibrary.Api\\Program.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Program.cs",
-              "ToolTip": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\TechLibrary.Api\\Program.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T01:43:31.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ExceptionFilter.cs",
-              "DocumentMoniker": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\TechLibrary.Api\\Filters\\ExceptionFilter.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Filters\\ExceptionFilter.cs",
-              "ToolTip": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\TechLibrary.Api\\Filters\\ExceptionFilter.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Filters\\ExceptionFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\TechLibrary.Api\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\TechLibrary.Api\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T01:23:54.373Z",
+              "WhenOpened": "2025-02-24T11:58:43.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\TechLibrary.Api\\Controllers\\UsersController.cs*",
-              "RelativeToolTip": "TechLibrary.Api\\Controllers\\UsersController.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FilterBooksUseCase.cs",
+              "DocumentMoniker": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\TechLibrary.Api\\UseCases\\Books\\Filter\\FilterBooksUseCase.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Books\\Filter\\FilterBooksUseCase.cs",
+              "ToolTip": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\TechLibrary.Api\\UseCases\\Books\\Filter\\FilterBooksUseCase.cs",
+              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Books\\Filter\\FilterBooksUseCase.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAWwBMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T01:23:22.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DoLoginUseCase.cs",
-              "DocumentMoniker": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\TechLibrary.Api\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
-              "ToolTip": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\TechLibrary.Api\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
-              "RelativeToolTip": "TechLibrary.Api\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T00:59:26.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\TechLibrary.Api\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\LoginController.cs",
-              "ToolTip": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\TechLibrary.Api\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T00:52:15.447Z",
+              "WhenOpened": "2025-02-24T11:43:36.9Z",
               "EditorCaption": ""
             }
           ]
