@@ -31,6 +31,22 @@
     ]
   },
   {
+    "ContainingType": "TechLibrary.Api.Controllers.CheckoutsController",
+    "Method": "BookCheckout",
+    "RelativePath": "Checkouts/{bookId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bookId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "TechLibrary.Api.Controllers.LoginController",
     "Method": "DoLogin",
     "RelativePath": "Login",

@@ -28,9 +28,6 @@ public class FilterBooksUseCase
             .Take(PAGE_SIZE)
             .ToList();
 
-        var querystring = objBooks.ToQueryString();
-        Console.WriteLine(querystring);
-
         var totalBooks = objBooks.Count();
 
         return new ResponseBooksJson
