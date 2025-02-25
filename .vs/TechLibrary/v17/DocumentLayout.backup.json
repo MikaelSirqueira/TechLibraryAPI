@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|d:\\mike\\documents\\projects\\rocketseat\\nlw-connect\\csharp\\techlibrary\\techlibrary.api\\services\\loggeruser\\loggeduserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\services\\loggeruser\\loggeduserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|d:\\mike\\documents\\projects\\rocketseat\\nlw-connect\\csharp\\techlibrary\\techlibrary.api\\usecases\\checkouts\\registerbookcheckoutusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\usecases\\checkouts\\registerbookcheckoutusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|d:\\mike\\documents\\projects\\rocketseat\\nlw-connect\\csharp\\techlibrary\\techlibrary.api\\services\\loggeruser\\loggeduserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\services\\loggeruser\\loggeduserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CDDB2C2-09AB-43DE-B744-9993A3D9EC98}|TechLibrary.Api\\TechLibrary.Api.csproj|d:\\mike\\documents\\projects\\rocketseat\\nlw-connect\\csharp\\techlibrary\\techlibrary.api\\controllers\\checkoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 168,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoggedUserService.cs",
               "DocumentMoniker": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\TechLibrary.Api\\Services\\LoggerUser\\LoggedUserService.cs",
               "RelativeDocumentMoniker": "TechLibrary.Api\\Services\\LoggerUser\\LoggedUserService.cs",
@@ -43,13 +43,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RegisterBookCheckoutUseCase.cs",
               "DocumentMoniker": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\TechLibrary.Api\\UseCases\\Checkouts\\RegisterBookCheckoutUseCase.cs",
               "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Checkouts\\RegisterBookCheckoutUseCase.cs",
               "ToolTip": "D:\\Mike\\Documents\\Projects\\Rocketseat\\nlw-connect\\csharp\\TechLibrary\\TechLibrary.Api\\UseCases\\Checkouts\\RegisterBookCheckoutUseCase.cs",
               "RelativeToolTip": "TechLibrary.Api\\UseCases\\Checkouts\\RegisterBookCheckoutUseCase.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAWwBUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAWwBsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T13:41:10.42Z",
               "EditorCaption": ""
